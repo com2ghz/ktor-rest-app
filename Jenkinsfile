@@ -1,3 +1,3 @@
+"#!groovy
 pipeline {
-    /* insert Declarative Pipeline here */
 }
